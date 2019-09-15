@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aima-core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/aima-core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aima-gui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
