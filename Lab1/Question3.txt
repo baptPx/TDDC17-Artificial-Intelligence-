@@ -1,0 +1,3 @@
+For each step, if the vacuum bump, he is looking for the case that surrounds him and if there is one he turns to the way of the available case so he can discover a new case.
+At each step the vacuum is moving, he completes a list of movement, so when the vacuum has no more case to find, he goes back until he found an available case.
+When the vacuum find the home point, he starts a second list of movement so when all the cases are found, he can follow these position until he finds the home position.
